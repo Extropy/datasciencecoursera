@@ -4,7 +4,7 @@ datasciencecoursera
 # Week 1
 ## Assignment: set up a public git repository
 
-This ine added locally, then pushed.
+This line added locally, then pushed.
 
 
 
